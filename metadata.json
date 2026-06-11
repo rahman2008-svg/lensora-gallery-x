@@ -1,0 +1,6 @@
+{
+  "name": "Lensora Gallery X",
+  "description": "A production-grade, offline-first Google Photos style Media Gallery with Secure Vault, Album organization, and local Storage Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
